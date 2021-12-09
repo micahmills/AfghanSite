@@ -14,7 +14,7 @@ eleventyNavigation:
 <div class="posts inner box-grid">
   <article class="card">
     <a class="box-block" href="https://bit.ly/TheSaviorDari">
-      <img class="card-image" data-src="/images/The_Savior.jpg" alt="The Savior Movie">
+      <img class="card-image" width="460px" height="460px" data-src="/images/The_Savior.jpg" alt="The Savior Movie">
     </a>
 
   <div class="card-content pt-700 pb-900 pl-300 pr-300">
@@ -24,7 +24,7 @@ eleventyNavigation:
 
 <article class="card">
     <a class="box-block" href="https://bit.ly/DariBibleAndroid">
-      <img class="card-image" data-src="/images/DariBibleAndroidLogo.png" alt="Dari Bible - Android کتاب مقدس دری - اندروید">
+      <img class="card-image"  width="460px" height="460px"  data-src="/images/DariBibleAndroidLogo.png" alt="Dari Bible - Android کتاب مقدس دری - اندروید">
     </a>
 
   <div class="card-content pt-700 pb-900 pl-300 pr-300">
@@ -34,7 +34,7 @@ eleventyNavigation:
 
 <article class="card">
     <a class="box-block" href="https://bit.ly/DariBibleApple">
-      <img class="card-image" data-src="/images/DariBibleiOSLogo.png" alt="Dari Bible - iOS کتاب مقدس دری - آیفون">
+      <img class="card-image"  width="460px" height="460px" data-src="/images/DariBibleiOSLogo.png" alt="Dari Bible - iOS کتاب مقدس دری - آیفون">
     </a>
 
   <div class="card-content pt-700 pb-900 pl-300 pr-300">
@@ -44,7 +44,7 @@ eleventyNavigation:
 
 <article class="card">
     <a class="box-block" href="https://bit.ly/AfghanTV">
-      <img class="card-image" data-src="/images/afghantv.jpg" alt="AfghanTV">
+      <img class="card-image"  width="460px" height="460px"  data-src="/images/afghantv.jpg" alt="AfghanTV">
     </a>
 
   <div class="card-content pt-700 pb-900 pl-300 pr-300">
@@ -54,7 +54,7 @@ eleventyNavigation:
 
 <article class="card">
     <a class="box-block" href="https://bit.ly/AfghanTVfb">
-      <img class="card-image" data-src="/images/afghantvFacebook.jpg" alt="AfghanTV Facebook">
+      <img class="card-image" width="445px" height="460px"  data-src="/images/afghantvFacebook.jpg" alt="AfghanTV Facebook">
     </a>
 
   <div class="card-content pt-700 pb-900 pl-300 pr-300">
@@ -64,7 +64,7 @@ eleventyNavigation:
 
 <article class="card">
     <a class="box-block" href="https://bit.ly/JFilmDari">
-      <img class="card-image" data-src="/images/jfilm.jpg" alt="داستان عیسی مسیح در دری">
+      <img class="card-image"  width="460px" height="300px" data-src="/images/jfilm.jpg" alt="داستان عیسی مسیح در دری">
     </a>
 
   <div class="card-content pt-700 pb-900 pl-300 pr-300">
