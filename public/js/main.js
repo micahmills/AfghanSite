@@ -132,9 +132,9 @@ var $$ = {
   containerCentre: document.getElementById('container-centre'),
   containerRight: document.getElementById('container-right'),
   preFooter: document.getElementById('pre-footer'),
-  footer: document.getElementById('footer') // mobileNav           : document.getElementById('mobile-nav'),
-  // mobileNavToggle     : document.getElementById('mobile-nav-toggle')
-
+  footer: document.getElementById('footer'),
+  mobileNav: document.getElementById('mobile-nav'),
+  mobileNavToggle: document.getElementById('mobile-nav-toggle')
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ($$);
 
