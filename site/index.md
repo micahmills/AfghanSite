@@ -1,41 +1,74 @@
 ---
 layout: home
 meta_title: Home
-meta_description: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
-title: An Eleventy starter skeleton
-sub_heading: Skeleventy gives you a rock solid foundation to build fast and accessible static websites.
+meta_description: Resources for Afghans in America
+title: خوش آمدید
+sub_heading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae aliquet nec ullamcorper sit amet risus nullam eget felis. Adipiscing diam donec adipiscing tristique.
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-## Features
+<h1>Test</h1>
 
-- Clean, understated design - a good starting point for a portfolio or blog
-- A minimal build pipeline with [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example)
-- [Gorko](https://github.com/hankchizljaw/gorko), a smart little Sass-powered utility class generator
-- [Purgecss](https://purgecss.com/) to remove unused CSS
-- HTML minifier
-- Supports ES2017 JavaScript, with Babel compilation
-- SEO friendly page meta, including Open Graph and Twitter
-- Image lazy loading
-- Responsive navigation
-- XML Sitemap
+<div class="posts inner box-grid">
+  <article class="card">
+    <a class="box-block" href="https://bit.ly/TheSaviorDari">
+      <img class="card-image" data-src="/images/The_Savior.jpg" alt="The Savior Movie">
+    </a>
 
-## Getting started
+  <div class="card-content pt-700 pb-900 pl-300 pr-300">
+    <h2><a class="card-title-link color-white weight-regular hover-color-secondary" href="https://bit.ly/TheSaviorDari">نجات دهنده</a></h2> 
+  </div>
+</article>
 
-### Prerequisites
-Node `v10+`
+<article class="card">
+    <a class="box-block" href="https://bit.ly/DariBibleAndroid">
+      <img class="card-image" data-src="/images/DariBibleAndroidLogo.png" alt="Dari Bible - Android کتاب مقدس دری - اندروید">
+    </a>
 
-### Installation
+  <div class="card-content pt-700 pb-900 pl-300 pr-300">
+    <h2><a class="card-title-link color-white weight-regular hover-color-secondary" href="https://bit.ly/DariBibleAndroid">کتاب مقدس دری - اندروید</a></h2> 
+  </div>
+</article>
 
-1. Clone the repo `git clone https://github.com/josephdyer/skeleventy.git`
-2. `cd` into the project folder and run `npm install`
-3. Start the local development server by running `npm run dev` **Tip:** _Eleventy has live reload baked in!_
+<article class="card">
+    <a class="box-block" href="https://bit.ly/DariBibleApple">
+      <img class="card-image" data-src="/images/DariBibleiOSLogo.png" alt="Dari Bible - iOS کتاب مقدس دری - آیفون">
+    </a>
 
-## Ready to deploy?
+  <div class="card-content pt-700 pb-900 pl-300 pr-300">
+    <h2><a class="card-title-link color-white weight-regular hover-color-secondary" href="https://bit.ly/DariBibleApple">کتاب مقدس دری - آیفون</a></h2> 
+  </div>
+</article>
 
-The ```npm run production``` command will remove any unused CSS with Purgecss and minify the CSS and JS files.
+<article class="card">
+    <a class="box-block" href="https://bit.ly/AfghanTV">
+      <img class="card-image" data-src="/images/afghantv.jpg" alt="AfghanTV">
+    </a>
 
-I highly recommend using [Netlify](https://www.netlify.com) to host your site on, so I've included a ```netlify.toml``` configuration file for your convenience.
+  <div class="card-content pt-700 pb-900 pl-300 pr-300">
+    <h2><a class="card-title-link color-white weight-regular hover-color-secondary" href="https://bit.ly/AfghanTV">AfghanTV</a></h2> 
+  </div>
+</article>
 
+<article class="card">
+    <a class="box-block" href="https://bit.ly/AfghanTVfb">
+      <img class="card-image" data-src="/images/afghantvFacebook.jpg" alt="AfghanTV Facebook">
+    </a>
+
+  <div class="card-content pt-700 pb-900 pl-300 pr-300">
+    <h2><a class="card-title-link color-white weight-regular hover-color-secondary" href="https://bit.ly/AfghanTVfb">AfghanTV Facebook</a></h2> 
+  </div>
+</article>
+
+<article class="card">
+    <a class="box-block" href="https://bit.ly/JFilmDari">
+      <img class="card-image" data-src="/images/jfilm.jpg" alt="داستان عیسی مسیح در دری">
+    </a>
+
+  <div class="card-content pt-700 pb-900 pl-300 pr-300">
+    <h2><a class="card-title-link color-white weight-regular hover-color-secondary" href="https://bit.ly/JFilmDari">داستان عیسی مسیح در دری</a></h2> 
+  </div>
+</article>
+</div>
